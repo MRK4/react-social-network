@@ -11,7 +11,7 @@ export default function Topbar() {
 
         <div>
 
-          <span className='font-bold text-3xl cursor-pointer'>fakebook</span>
+          <span className='font-bold text-3xl cursor-pointer'>React Network</span>
 
         </div>
 
